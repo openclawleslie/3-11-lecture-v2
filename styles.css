@@ -536,7 +536,7 @@ section {
   inset: 0;
   border-radius: var(--radius);
   background:
-    linear-gradient(to bottom, transparent 65%, var(--bg-parchment) 100%),
+    linear-gradient(to bottom, transparent 88%, var(--bg-parchment) 100%),
     linear-gradient(to right, var(--bg-parchment) 0%, transparent 12%, transparent 88%, var(--bg-parchment) 100%);
   pointer-events: none;
 }
